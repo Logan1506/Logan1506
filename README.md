@@ -1,6 +1,5 @@
 ### Prazer, sou o Logan!😎
 
-[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan1506)](https://github.com/logan1506/github-readme-stats)
 ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan1506&show_icons=true&bg_color=00000000)
 
 
